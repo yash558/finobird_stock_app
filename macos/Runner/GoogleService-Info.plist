@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>745527816686-5v1k3ahv9jf2c9ic5b7sre24g2u0ngj2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.745527816686-5v1k3ahv9jf2c9ic5b7sre24g2u0ngj2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAXJVakrbnzH7xEoEuS6aV4gbsREbm-rXI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>745527816686</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.finobird.app</string>
+	<key>PROJECT_ID</key>
+	<string>finobird-4f4ad</string>
+	<key>STORAGE_BUCKET</key>
+	<string>finobird-4f4ad.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:745527816686:ios:ed00170bc2408132995eff</string>
+</dict>
+</plist>

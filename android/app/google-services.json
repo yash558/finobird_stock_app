@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "745527816686",
+    "project_id": "finobird-4f4ad",
+    "storage_bucket": "finobird-4f4ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745527816686:android:e8a7cf5708893ca6995eff",
+        "android_client_info": {
+          "package_name": "com.finobird.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745527816686-c1m0ft3b9jo7gc1s4l3uqg1earrh7i8m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finobird.app",
+            "certificate_hash": "e35cc323b71a53eb5bdfb1803bab3a3453fe57a3"
+          }
+        },
+        {
+          "client_id": "745527816686-d8i90bs4tspruq9iiq3mdeduvl0dkh27.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finobird.app",
+            "certificate_hash": "13811b37bea330e941c4d4031deb568f7c50ae0a"
+          }
+        },
+        {
+          "client_id": "745527816686-q16oe2bkf14a5homtpalse48j64pp5at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.finobird.app",
+            "certificate_hash": "afe044b21c2327fdd478a3bd6189c4c5ef1aefa2"
+          }
+        },
+        {
+          "client_id": "745527816686-ndrrkuvs4k81mhftddfnpfoqbhnqnjvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxvGEvAAmb8QB_N-uxhWGwY4pF81d5yHo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745527816686-ndrrkuvs4k81mhftddfnpfoqbhnqnjvd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "745527816686-5v1k3ahv9jf2c9ic5b7sre24g2u0ngj2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.finobird.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
